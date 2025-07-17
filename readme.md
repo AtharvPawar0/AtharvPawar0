@@ -20,7 +20,6 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 
 
 ---
-## 🚀 Projects
 
 ## 🚀 Projects
 
