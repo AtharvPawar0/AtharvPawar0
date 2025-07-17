@@ -1,7 +1,7 @@
-![Banner](https://i.postimg.cc/pLzhDFSF/IMG-20250319-WA0002.jpg)
+![Banner](https://i.postimg.cc/5yzYnQtT/IMG-20250319-WA0002-1.jpg)
 
 # 💫 About Me:
-I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity.
+I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity
 
 ---
 
@@ -14,11 +14,8 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pawar-3205072a3) 
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iideal_im) 
-&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM) 
-&nbsp;
 [![Chess.com](https://img.shields.io/badge/Chess.com-00A900?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ideal_im)
 
 ---
