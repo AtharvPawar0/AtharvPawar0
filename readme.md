@@ -12,16 +12,38 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pawar-3205072a3)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iideal_im)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pawar-3205072a3) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iideal_im) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM) 
 [![Chess.com](https://img.shields.io/badge/Chess.com-00A900?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ideal_im)
 
 
 
+---
+
+## 🚀 Projects
+
+### 📌 Ideal To-Do List
+<a href="https://ideal-to-do-list.netlify.app" target="_blank">
+  <img src="https://i.postimg.cc/0j8JNBQ2/chrome-Bgf6n-Tsky-Q.png" width="200px">
+</a>  
+👉 [Live Project](https://ideal-to-do-list.netlify.app)
+
+---
+
+### 📌 Ideal Pomodoro Timer
+<a href="https://ideal-pomodoro-timer.netlify.app" target="_blank">
+  <img src="https://i.postimg.cc/QtZT2tZ7/chrome-h-Y7-Ka-E8of5.png" width="200px">
+</a>  
+👉 [Live Project](https://ideal-pomodoro-timer.netlify.app)
+
+---
+
+### 📌 Ideal Memory Card
+<a href="https://ideal-memory-card.netlify.app" target="_blank">
+  <img src="https://i.postimg.cc/PJ2vvQpb/chrome-I9-H2o-DPui0.png" width="200px">
+</a>  
+👉 [Live Project](https://ideal-memory-card.netlify.app)
 
 ---
 ## 🛠️ Tech Stack
