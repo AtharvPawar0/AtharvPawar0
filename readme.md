@@ -2,12 +2,12 @@
 I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity
 
 ---
-
 ## 🌐 Personal Website
 👉 [Visit My Portfolio](https://ideal-im.netlify.app)
 
 ## 🎥 YouTube Channel
-👉 [Ideal IM on YouTube](https://www.youtube.com/@Ideal_IM)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM)
+
 
 ---
 
@@ -22,12 +22,6 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Other:** JavaScript, TypeScript, Git
-
----
-## 📊 GitHub Stats
-
-![](https://streak-stats.demolab.com/?user=AtharvPawar0&theme=dark&hide_border=false)<br/>
-
 
 ---
 
