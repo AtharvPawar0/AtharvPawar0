@@ -23,11 +23,10 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 
 ## 🚀 Projects
 
-### 📌 Ideal To-Do List
-<a href="https://ideal-to-do-list.netlify.app" target="_blank">
+### 📌 Ideal Memory Card
+<a href="https://ideal-memory-card.netlify.app" target="_blank">
   <img src="https://i.postimg.cc/0j8JNBQ2/chrome-Bgf6n-Tsky-Q.png" width="150px">
 </a>&nbsp;&nbsp;
-
 
 ---
 
@@ -36,13 +35,13 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
   <img src="https://i.postimg.cc/QtZT2tZ7/chrome-h-Y7-Ka-E8of5.png" width="150px">
 </a>&nbsp;&nbsp;
 
-
 ---
 
-### 📌 Ideal Memory Card
-<a href="https://ideal-memory-card.netlify.app" target="_blank">
+### 📌 Ideal To-Do List
+<a href="https://ideal-to-do-list.netlify.app" target="_blank">
   <img src="https://i.postimg.cc/PJ2vvQpb/chrome-I9-H2o-DPui0.png" width="150px">
 </a>&nbsp;&nbsp;
+
 
 
 ---
