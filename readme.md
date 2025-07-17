@@ -1,5 +1,7 @@
+![Banner](https://i.postimg.cc/pLzhDFSF/IMG-20250319-WA0002.jpg)
+
 # 💫 About Me:
-I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity
+I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity.
 
 ---
 
@@ -11,10 +13,12 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 ---
 
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pawar-3205072a3) 
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iideal_im) 
+&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM) 
+&nbsp;
 [![Chess.com](https://img.shields.io/badge/Chess.com-00A900?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ideal_im)
 
 ---
@@ -40,9 +44,8 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
   <img src="https://i.postimg.cc/PJ2vvQpb/chrome-I9-H2o-DPui0.png" width="150px">
 </a>&nbsp;&nbsp;
 
-
-
 ---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:**  
@@ -61,5 +64,7 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
+
 <!-- Proudly created with love by Atharv Pawar -->
