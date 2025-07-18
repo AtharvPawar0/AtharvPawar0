@@ -19,8 +19,14 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 [![Chess.com](https://img.shields.io/badge/Chess.com-00A900?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ideal_im)
 
 ---
-
 ## 🚀 Projects
+
+### 📌 MoodTunes - Music Player
+<a href="https://ideal-mood-tunes.netlify.app/" target="_blank">
+  <img src="https://i.postimg.cc/wvHfGHKH/chrome-0tei-XUSWqv.png" width="150px">
+</a>&nbsp;&nbsp;
+
+---
 
 ### 📌 Ideal Memory Card
 <a href="https://ideal-memory-card.netlify.app" target="_blank">
@@ -42,7 +48,6 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 </a>&nbsp;&nbsp;
 
 ---
-
 ## 🛠️ Tech Stack
 
 - **Frontend:**  
