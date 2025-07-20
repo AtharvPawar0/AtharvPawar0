@@ -20,6 +20,14 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 
 ---
 ## 🚀 Projects
+---
+
+### 📌 Ideal Quotes
+<a href="https://ideal-quotes.netlify.app/" target="_blank">
+  <img src="https://i.postimg.cc/cC0n1cqY/explorer-HSJii0k-Ss-W.png" width="150px">
+</a>&nbsp;&nbsp;
+
+---
 
 ### 📌 MoodTunes - Music Player
 <a href="https://ideal-mood-tunes.netlify.app/" target="_blank">
