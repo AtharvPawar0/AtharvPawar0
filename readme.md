@@ -1,4 +1,4 @@
-![Floating Logos](https://i.postimg.cc/NF0HZqKV/lv-0-20250720205939-2.gif)
+![Banner](https://i.postimg.cc/5yzYnQtT/IMG-20250319-WA0002-1.jpg)
 
 
 # 💫 About Me:
