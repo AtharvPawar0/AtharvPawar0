@@ -14,11 +14,18 @@ I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about 
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pawar-3205072a3) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iideal_im) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ideal_IM) 
-[![Chess.com](https://img.shields.io/badge/Chess.com-00A900?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/ideal_im)
-
+<a href="https://linkedin.com/in/atharv-pawar-3205072a3">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.svg" alt="LinkedIn" width="40px">
+</a> 
+<a href="https://www.instagram.com/iideal_im">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40px">
+</a> 
+<a href="https://www.youtube.com/@Ideal_IM">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="YouTube" width="40px">
+</a> 
+<a href="https://www.chess.com/member/ideal_im">
+  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_player_icons/898748.png" alt="Chess.com" width="40px">
+</a>
 ---
 ## 🚀 Projects
 
