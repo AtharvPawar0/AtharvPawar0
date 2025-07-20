@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/5yzYnQtT/IMG-20250319-WA0002-1.jpg)
+![Floating Logos](https://i.postimg.cc/rsGPZ4tg/lv-0-20250720205939.gif)
 
 # 💫 About Me:
 I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity
