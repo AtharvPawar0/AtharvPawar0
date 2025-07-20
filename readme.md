@@ -1,4 +1,5 @@
-![Floating Logos 2 (Wider)](https://i.postimg.cc/NF0HZqKV/lv-0-20250720205939-2.gif)
+![Floating Logos](https://i.postimg.cc/NF0HZqKV/lv-0-20250720205939-2.gif)
+
 
 # 💫 About Me:
 I'm a **Full Stack Developer** and **YouTube Content Creator** passionate about technology, coding, and creativity
