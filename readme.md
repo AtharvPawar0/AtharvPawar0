@@ -1,4 +1,4 @@
-![Banner](https://i.postimg.cc/5yzYnQtT/IMG-20250319-WA0002-1.jpg)
+![Banner](https://i.postimg.cc/3wyNxMSg/IMG-20250319-WA0002-1.jpg)
 
 
 # 💫 About Me:
